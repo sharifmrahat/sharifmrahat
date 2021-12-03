@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sharif</h1>
-<h3 align="center">A passionate FrontEnd developer!</h3>
+<h3 align="center">| A passionate FrontEnd developer |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shareefrahat&label=Profile%20views&color=0e75b6&style=flat" alt="shareefrahat" /> </p>
 
-- 🔭 I’m currently working on **Raw CSS Projects**
+- 🔭  I’m currently working on **CSS Projects**
 
-- 🌱 I’m currently learning **Vanilla JavaScript**
+- 🌱  I’m currently learning **Vanilla JavaScript**
 
-- 💬 Ask me about **HTML5, SASS and BootStrap**
+- 💬  Ask me on **<a href="https://t.me/shareefrahat">Telegram</a>**
 
-- 📫 How to reach me **sharifmrahat@gmail.com**
+- 📫  Reach me through **sharifmrahat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
