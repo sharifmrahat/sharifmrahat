@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharif</h1>
 <h3 align="center">| A passionate FrontEnd developer |</h3>
-
 <img align="right" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300px"/>
+
+<br>
 
 - 🔭  I’m currently working on **BootStrap**
 
