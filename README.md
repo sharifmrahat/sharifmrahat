@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharif</h1>
 <h3 align="center">| A passionate FrontEnd developer |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shareefrahat&label=Profile%20views&color=0e75b6&style=flat" alt="shareefrahat" /> </p>
+<img align="right" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="300px"/>
 
-- 🔭  I’m currently working on **CSS Projects**
+- 🔭  I’m currently working on **BootStrap**
 
 - 🌱  I’m currently learning **Vanilla JavaScript**
 
@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shareefrahat&show_icons=true&locale=en&layout=compact" alt="shareefrahat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shareefrahat&show_icons=true&locale=en" alt="shareefrahat" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shareefrahat&label=Profile%20views&color=0e75b6&style=flat" alt="shareefrahat" /> </p>
