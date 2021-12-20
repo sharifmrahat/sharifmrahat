@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on **BootStrap**
 
-- 🌱  I’m currently learning **Vanilla JavaScript**
+- 🌱  I’m currently learning **JavaScript**
 
 - 💬  Ask me on **<a href="https://t.me/shareefrahat">Telegram</a>**
 
