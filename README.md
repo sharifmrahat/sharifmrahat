@@ -4,9 +4,9 @@
 
 <br>
 
-- 🔭  I’m currently working on **BootStrap**
+- 🔭  I’m currently working on **FrontEnd Development**
 
-- 🌱  I’m currently learning **JavaScript**
+- 🌱  I’m currently learning **ES6**
 
 - 💬  Ask me on **<a href="https://t.me/shareefrahat">Telegram</a>**
 
