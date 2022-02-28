@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on **FrontEnd Development**
 
-- 🌱  I’m currently learning **ES6**
+- 🌱  I’m currently learning **ES6 & API**
 
 - 💬  Ask me on **<a href="https://t.me/shareefrahat">Telegram</a>**
 
