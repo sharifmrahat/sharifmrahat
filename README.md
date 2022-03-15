@@ -35,8 +35,8 @@
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-ff4757?style=for-the-badge&logo=figma&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FC427B?style=for-the-badge&logo=figma&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### ⏳ Current Stats:
