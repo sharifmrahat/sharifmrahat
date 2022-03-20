@@ -8,7 +8,7 @@
 
 - 👨‍💻  I’m currently learning **ReactJs**
 
-- 💬  Ask me on **<a href="https://t.me/shareefrahat">Telegram</a>**
+- 💻 Most familiar statement `console.log();`
 
 - 📫  Reach me through **<a href="mailto:sharifmrahat@gmail.com">MailBox</a>**
 
