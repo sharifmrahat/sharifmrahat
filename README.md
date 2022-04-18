@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Sharif. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=2C2C54&center=true&vCenter=true&width=800&lines=This+is+Sharif;A+Passionate+FrontEnd+Developer;Currently+working+with+React+%26+Tailwind) -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=2C2C54&center=true&vCenter=true&width=800&lines=This+is+Sharif;A+Passionate+FrontEnd+Developer;Currently+working+with+React+%26+Tailwind"  />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=2C2C54&center=true&vCenter=true&width=800&lines=This+is+Sharif;A+Passionate+FrontEnd+Developer;Currently+working+with+React+%26+Tailwind"  />
 <img align="right" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="280px"/>
 
 <br>
