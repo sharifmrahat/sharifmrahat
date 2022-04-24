@@ -7,7 +7,7 @@
 
 - 🎯  I’m currently working on **FullStack Development**
 
-- 👨‍💻  I’m currently learning **ReactJs**
+- 👨‍💻  I’m currently learning **NodeJs**
 
 - 💻 Most familiar statement `console.log();`
 
