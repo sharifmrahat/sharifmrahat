@@ -33,9 +33,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-f5820d?style=for-the-badge&logo=firebase&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express-4e4e4e?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) -->
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FC427B?style=for-the-badge&logo=figma&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white)
