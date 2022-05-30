@@ -4,7 +4,7 @@
 
 - 🎯  I’m currently working on **Backend Development**
 
-- 👨‍💻  I’m currently learning **Express**
+- 👨‍💻  I’m currently learning **Redux**
 
 - 💻 Most familiar statement `console.log();`
 
