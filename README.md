@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="center" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200"/>
 
-- 🎯  I’m currently working on **Backend Development**
+- 🎯  I’m currently working on **FullStack Development**
 
-- 👨‍💻  I’m currently learning **Redux**
+- 👨‍💻  I’m currently learning **Redux, NextJS**
 
 - 💻 Most familiar statement `console.log();`
 
