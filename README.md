@@ -40,8 +40,8 @@
 ![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### ⏳ Current Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shareefrahat&show_icons=true&locale=en&layout=compact" alt="shareefrahat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharifmrahat&show_icons=true&locale=en&layout=compact" alt="shareefrahat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shareefrahat&show_icons=true&locale=en" alt="shareefrahat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharifmrahat&show_icons=true&locale=en" alt="shareefrahat" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shareefrahat&label=Profile%20views&color=0e75b6&style=flat" alt="shareefrahat" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifmrahat&label=Profile%20views&color=0e75b6&style=flat" alt="shareefrahat" /> </p>
