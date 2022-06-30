@@ -4,7 +4,7 @@
 
 - 🎯  I’m currently working on **FullStack Development**
 
-- 👨‍💻  I’m currently learning **Redux, NextJS**
+- 👨‍💻  I’m currently learning **NestJS**
 
 - 💻 Most familiar statement `console.log();`
 
