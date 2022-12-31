@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="right" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340" height="260"/>
 
-- 🎯  I’m currently working on **Vue - GraphQL - Nest**
+- 🎯  I’m currently working on **Vue - Nest**
 
-- 👨‍💻  I’m currently learning **Microservice**
+- 👨‍💻  I’m currently learning **NestJS Microservice**
 
 - 💻 Most familiar statement `console.log();`
 
