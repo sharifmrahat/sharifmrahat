@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="right" src="https://media4.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="340" height="260"/>
 
-- 🎯  I’m currently working on **Vue & Nest**
+- 🎯  I’m currently working on **Microservices**
 
-- 👨‍💻  I’m currently learning **Microservices**
+- 👨‍💻  I’m currently learning **Structured Query Language**
 
 - 💻 Most familiar statement `console.log();`
 
