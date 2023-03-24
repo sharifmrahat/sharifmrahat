@@ -8,7 +8,7 @@
 
 - 💻 Most familiar statement `console.log();`
 
-- 📫  Reach me through **<a href="mailto:sharifmrahat@gmail.com">MailBox</a>**
+- 📫  Reach me through **<a href="mailto:mail@sharifrahat.com">MailBox</a>**
 
 
 ### 💡 Connect on:
