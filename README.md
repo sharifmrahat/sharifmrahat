@@ -4,7 +4,7 @@
 
 - 🎯  I’m currently working on **Microservices**
 
-- 👨‍💻  I’m currently learning **Structured Query Language**
+- 👨‍💻  I’m currently learning **NUXT**
 
 - 💻 Most familiar statement `console.log();`
 
