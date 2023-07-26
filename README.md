@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm <a href="https://sharifrahat.com">Sharif<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="350" height="250"/>
+<img align="right" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="500" height="350"/>
 
 - 🎯  I’m currently working on **Vue | GrahQL | Nest**
 
