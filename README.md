@@ -1,6 +1,6 @@
 <h2 align="center">Hello! I'm <a href="https://sharifrahat.com">Sharif<a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h3 align="center">Passionate Full Stack Developer</h3>
-<img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="200"/>
+<img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="160"/>
 
 - 🎯  Currently focusing on **Open-Source Project**
 
