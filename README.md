@@ -48,10 +48,10 @@
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-123a50?style=for-the-badge&logo=prisma&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-<!-- ![Apollo](https://img.shields.io/badge/Apollo-311c87?style=for-the-badge&logo=apollographql&logoColor=white) -->
 ![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-833471?style=for-the-badge&logo=ubuntu&logoColor=white)
+<!-- ![Apollo](https://img.shields.io/badge/Apollo-311c87?style=for-the-badge&logo=apollographql&logoColor=white) -->
 <!-- ![JWT](https://img.shields.io/badge/JWT-d63aff?style=for-the-badge&logo=zapier&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5a29e4?style=for-the-badge&logo=axios&logoColor=white) -->
   <!-- ![Wordpress](https://img.shields.io/badge/Wordpress-0077B5?style=for-the-badge&logo=wordpress&logoColor=white) -->
