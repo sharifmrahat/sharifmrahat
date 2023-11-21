@@ -2,21 +2,23 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="200"/>
 
-- 🎯  I’m currently working on **Vue | GrahQL | Nest**
+- 🎯  Currently focusing on **Open-Source Project**
 
-- 👨‍💻  I’m currently learning **Advanced Developement**
+- 👨‍💻  Very comfortable to work with **Next.js & Nest.js**
 
-- 💻 Most familiar statement `console.log();`
+- 💻  Most familiar statement `console.log();`
 
-- 📫  Reach me through **<a href="mailto:mail@sharifrahat.com">MailBox</a>**
+- 📫  Reach me through **<a href="mailto:sharifmrahat@gmail.com">MailBox</a>**
 
 
 ### 💡 Connect on:
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShareefRahat) -->
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharifmrahat)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharifmrahat)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17617291/mohammad-sharif-uddin)
 [![DevTo](https://img.shields.io/badge/DevTo-12100E?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sharifmrahat)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/483956060986540032)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharifmrahat)
+
 
 ### 🚀 Tech Stack:
 
