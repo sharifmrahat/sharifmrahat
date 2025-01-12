@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <!-- <img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="160"/> -->
 
-- 🎯  Currently focusing on **Learning AWS**
+- 🎯  Currently focusing on **Learning Golang**
 
-- 👨‍💻  Very comfortable to work with **Next.js & Nest.js**
+- 👨‍💻  Very comfortable to work with **Svelte & Nest.js**
 
 - 💻  Most familiar statement `console.log();`
 
