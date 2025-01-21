@@ -4,7 +4,7 @@
 
 - 🎯  Currently focusing on **Learning Golang**
 
-- 👨‍💻  Favourite tech stack **Next.js | Vue | Svelte | MongoDB | PostgresQL | Express | Nest.js**
+- 👨‍💻  Favourite tech stack **React | Vue | Svelte | MongoDB | PostgresQL | Express | Nest.js**
 
 - 💻  Most familiar statement `console.log();`
 
