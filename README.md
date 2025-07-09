@@ -2,9 +2,9 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 <!-- <img align="right" src="https://raw.githubusercontent.com/sharifmrahat/sharifmrahat/main/typing.gif" width="300" height="160"/> -->
 
-- 🎯  Currently focusing on **Learning Golang**
+- 🎯  Currently focusing on **Learning System Design & Backend Engineering**
 
-- 👨‍💻  Favourite tech stack **React | Vue | Svelte | MongoDB | PostgresQL | Express | Nest.js**
+- 👨‍💻  Favourite tech stack **React | Vue | Svelte | MongoDB | PostgresQL | Node.js | Express | Nest.js**
 
 - 💻  Most familiar statement `console.log();`
 
